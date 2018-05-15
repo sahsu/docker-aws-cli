@@ -1,5 +1,8 @@
 # Change Log
 
+## [awscli-1.15.20](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.20) (2018-05-15)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/aws-cli-1.15.20...awscli-1.15.20)
+
 ## [aws-cli-1.15.20](https://github.com/sahsu/docker-aws-cli/tree/aws-cli-1.15.20) (2018-05-15)
 [Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/enbale-auto-diary-check...aws-cli-1.15.20)
 
