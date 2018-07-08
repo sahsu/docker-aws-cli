@@ -1,5 +1,86 @@
 # Change Log
 
+## [awscli-1.15.53](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.53) (2018-07-07)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.52...awscli-1.15.53)
+
+## [awscli-1.15.52](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.52) (2018-07-06)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.51...awscli-1.15.52)
+
+## [awscli-1.15.51](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.51) (2018-07-04)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.50...awscli-1.15.51)
+
+## [awscli-1.15.50](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.50) (2018-07-03)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.49...awscli-1.15.50)
+
+## [awscli-1.15.49](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.49) (2018-06-30)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.48...awscli-1.15.49)
+
+## [awscli-1.15.48](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.48) (2018-06-29)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.47...awscli-1.15.48)
+
+## [awscli-1.15.47](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.47) (2018-06-28)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.46...awscli-1.15.47)
+
+## [awscli-1.15.46](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.46) (2018-06-27)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.45...awscli-1.15.46)
+
+## [awscli-1.15.45](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.45) (2018-06-23)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.44...awscli-1.15.45)
+
+## [awscli-1.15.44](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.44) (2018-06-22)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.42...awscli-1.15.44)
+
+## [awscli-1.15.42](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.42) (2018-06-21)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.41...awscli-1.15.42)
+
+## [awscli-1.15.41](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.41) (2018-06-20)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.40...awscli-1.15.41)
+
+## [awscli-1.15.40](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.40) (2018-06-16)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.39...awscli-1.15.40)
+
+## [awscli-1.15.39](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.39) (2018-06-15)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.38...awscli-1.15.39)
+
+## [awscli-1.15.38](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.38) (2018-06-14)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.37...awscli-1.15.38)
+
+## [awscli-1.15.37](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.37) (2018-06-13)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.36...awscli-1.15.37)
+
+## [awscli-1.15.36](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.36) (2018-06-12)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.35...awscli-1.15.36)
+
+## [awscli-1.15.35](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.35) (2018-06-09)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.34...awscli-1.15.35)
+
+## [awscli-1.15.34](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.34) (2018-06-08)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.33...awscli-1.15.34)
+
+## [awscli-1.15.33](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.33) (2018-06-06)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.31...awscli-1.15.33)
+
+## [awscli-1.15.31](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.31) (2018-06-02)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.30...awscli-1.15.31)
+
+## [awscli-1.15.30](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.30) (2018-06-01)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.29...awscli-1.15.30)
+
+## [awscli-1.15.29](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.29) (2018-05-30)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.28...awscli-1.15.29)
+
+## [awscli-1.15.28](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.28) (2018-05-26)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.27...awscli-1.15.28)
+
+## [awscli-1.15.27](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.27) (2018-05-25)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.26...awscli-1.15.27)
+
+## [awscli-1.15.26](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.26) (2018-05-23)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.25...awscli-1.15.26)
+
+## [awscli-1.15.25](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.25) (2018-05-22)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.24...awscli-1.15.25)
+
 ## [awscli-1.15.24](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.15.24) (2018-05-19)
 [Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.15.22...awscli-1.15.24)
 
