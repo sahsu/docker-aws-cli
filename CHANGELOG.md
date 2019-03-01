@@ -1,5 +1,8 @@
 # Change Log
 
+## [awscli-1.16.115](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.16.115) (2019-03-01)
+[Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.16.114...awscli-1.16.115)
+
 ## [awscli-1.16.114](https://github.com/sahsu/docker-aws-cli/tree/awscli-1.16.114) (2019-02-28)
 [Full Changelog](https://github.com/sahsu/docker-aws-cli/compare/awscli-1.16.113...awscli-1.16.114)
 
